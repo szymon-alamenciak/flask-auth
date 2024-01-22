@@ -28,7 +28,7 @@ how to build a simple web application with user registration, login.
 1.Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/riad-azz/flask-auth-example && cd flask-auth-example
+git clone https://github.com/szymon-alamenciak/flask-auth && cd flask-auth
 ```
 
 2.Install the required dependencies:
